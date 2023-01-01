@@ -1,6 +1,7 @@
 //> using scala "2.12"
 
-import scala.io.StdIn.{readInt, readLine}
+import scala.io.StdIn.readInt
+import scala.io.StdIn.readLine
 
 object Solution extends App {
   (1 to readInt).foreach { _ =>
